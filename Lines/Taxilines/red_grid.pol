@@ -1,0 +1,13 @@
+A
+850
+DRAPED_POLYGON
+
+TEXTURE red_grid.png
+TEXTURE_NORMAL 1.0 red_grid_NML.png
+SPECULAR 0.65
+BUMP_LEVEL 1.0
+SCALE 6 6
+SURFACE asphalt
+
+LAYER_GROUP markings -1
+#DECAL_LIB lib/g10/decals/apt_asphalt.dcl
