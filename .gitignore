@@ -1,0 +1,6 @@
+# ignore folder named 'OEJN_ARC'
+OEJN_ARC/
+#ignore folder named 'OEJN_GO2'
+OEJN_GO2/
+#ignore folder named 'objects-unfinished'
+objects-unfinished/
