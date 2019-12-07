@@ -4201,4 +4201,182 @@ I
 19  21.66446557  039.16494310 0 New Windsock 11
 19  21.66871865  039.17839964 0 New Windsock 10
 19  21.69780606  039.16921164 0 New Windsock 9
+1200 
+1201  21.67188137  039.14386974 both 0 R_stop
+1201  21.67200332  039.14374692 both 1 R_stop
+1201  21.67220448  039.14349993 both 2 R_stop
+1201  21.67235277  039.14331677 both 3 R_stop
+1201  21.67243440  039.14327131 both 4 R_stop
+1201  21.67872521  039.14079480 both 5 R_stop
+1201  21.65233834  039.16420498 both 6 R_stop
+1201  21.65270299  039.16510882 both 7 R_stop
+1201  21.65263730  039.16501212 both 8 R_stop
+1201  21.65256117  039.16485229 both 9 R_stop
+1201  21.65290286  039.16528780 both 10 R_stop
+1201  21.65309790  039.16535354 both 11 R_stop
+1201  21.65333422  039.16534874 both 12 R_stop
+1201  21.65352997  039.16528893 both 13 R_stop
+1201  21.65929766  039.16299885 both 14 R_stop
+1201  21.65934924  039.16295445 both 15 R_stop
+1201  21.65934796  039.16286982 both 16 R_stop
+1201  21.65928477  039.16267973 both 17 R_stop
+1201  21.65927832  039.16261313 both 18 R_stop
+1201  21.65931314  039.16254654 both 19 R_stop
+1201  21.66025802  039.16162774 both 20 R_stop
+1201  21.66031218  039.16158612 both 21 R_stop
+1201  21.66538561  039.15965622 both 22 R_stop
+1201  21.66558170  039.15950517 both 23 R_stop
+1201  21.66586359  039.15939222 both 24 R_stop
+1201  21.67310889  039.15652891 both 25 R_stop
+1201  21.67481424  039.15584947 both 26 R_stop
+1201  21.67450547  039.15490536 both 27 R_stop
+1201  21.67503988  039.15468940 both 28 R_stop
+1201  21.67925651  039.14058379 both 29 R_stop
+1201  21.67896382  039.14080055 both 30 R_stop
+1201  21.67865599  039.14112378 both 31 R_stop
+1201  21.67857826  039.14120943 both 32 R_stop
+1201  21.67849804  039.14128104 both 33 R_stop
+1201  21.67833759  039.14138276 both 34 R_stop
+1201  21.67255748  039.14365101 both 35 R_stop
+1201  21.67230316  039.14371172 both 36 R_stop
+1201  21.67203989  039.14383024 both 37 R_stop
+1201  21.67152677  039.14401333 both 38 R_stop
+1201  21.67505551  039.15467126 both 39 R_stop
+1201  21.67141945  039.14408273 both 40 R_stop
+1201  21.67252742  039.14731028 both 41 R_stop
+1201  21.67393265  039.15140033 both 42 R_stop
+1201  21.67406518  039.15178289 both 43 R_stop
+1201  21.67065468  039.14186008 both 44 R_stop
+1201  21.67061883  039.14177689 both 45 R_stop
+1201  21.67055362  039.14169232 both 46 R_stop
+1201  21.67045473  039.14165223 both 47 R_stop
+1201  21.67036120  039.14165495 both 48 R_stop
+1201  21.67028743  039.14167602 both 49 R_stop
+1201  21.66603125  039.14373657 both 50 R_stop
+1201  21.66596408  039.14347359 both 51 R_stop
+1201  21.66603436  039.14335850 both 52 R_stop
+1201  21.66619136  039.14419836 both 53 R_stop
+1201  21.66692071  039.14391530 both 54 R_start
+1206 1 0 twoway  R
+1206 2 1 twoway  R
+1206 3 2 twoway  R
+1206 4 3 twoway  R
+1206 5 4 twoway  R
+1206 29 5 twoway  R
+1206 50 51 twoway  R
+1206 51 52 twoway  R
+1206 52 49 twoway  R
+1206 7 8 twoway  R
+1206 8 9 twoway  R
+1206 9 6 twoway  R
+1206 10 7 twoway  R
+1206 11 10 twoway  R
+1206 12 11 twoway  R
+1206 13 12 twoway  R
+1206 14 13 twoway  R
+1206 15 14 twoway  R
+1206 16 15 twoway  R
+1206 17 16 twoway  R
+1206 18 17 twoway  R
+1206 19 18 twoway  R
+1206 20 19 twoway  R
+1206 21 20 twoway  R
+1206 22 21 twoway  R
+1206 23 22 twoway  R
+1206 24 23 twoway  R
+1206 25 24 twoway  R
+1206 26 25 twoway  R
+1206 27 26 twoway  R
+1206 28 27 twoway  R
+1206 39 28 twoway  R
+1206 40 41 twoway  R
+1206 30 29 oneway  R
+1206 31 30 oneway  R
+1206 32 31 oneway  R
+1206 33 32 oneway  R
+1206 34 33 oneway  R
+1206 35 34 oneway  R
+1206 36 35 oneway  R
+1206 37 36 oneway  R
+1206 0 37 oneway  R
+1206 38 0 twoway  R
+1206 40 38 twoway  R
+1206 41 42 twoway  R
+1206 42 43 twoway  R
+1206 43 39 twoway  R
+1206 44 40 twoway  R
+1206 45 44 twoway  R
+1206 46 45 twoway  R
+1206 47 46 twoway  R
+1206 48 47 twoway  R
+1206 49 48 twoway  R
+1206 53 50 twoway  R
+1206 54 53 twoway  R
+1400  21.67292620  39.14327516  251.03 baggage_loader 0 New Service Truck 14
+1400  21.67664952  39.14192191  68.88 fuel_jets 0 New Service Truck 52
+1400  21.67668803  39.14191516  68.43 fuel_jets 0 New Service Truck 50
+1400  21.67672475  39.14187758  66.97 fuel_jets 0 New Service Truck 49
+1400  21.67677579  39.14186024  241.86 fuel_jets 0 New Service Truck 48
+1400  21.67773272  39.14143896  250.97 fuel_jets 0 New Service Truck 47
+1400  21.67794807  39.14132379  255.26 fuel_jets 0 New Service Truck 46
+1400  21.67803447  39.14127522  247.96 baggage_train 2 New Service Truck 45
+1400  21.67807444  39.14125163  255.72 baggage_train 2 New Service Truck 44
+1400  21.67805510  39.14125580  250.91 baggage_train 2 New Service Truck 43
+1400  21.67810926  39.14122110  246.64 baggage_train 2 New Service Truck 42
+1400  21.67813763  39.14118919  250.82 baggage_train 2 New Service Truck 41
+1400  21.67507824  39.14236736  270.00 gpu 0 New Service Truck 38
+1400  21.67497240  39.14243730  251.56 gpu 0 New Service Truck 37
+1400  21.67471429  39.14256518  246.37 gpu 0 New Service Truck 36
+1400  21.67475329  39.14253321  228.65 gpu 0 New Service Truck 35
+1400  21.67487770  39.14249125  256.70 gpu 0 New Service Truck 34
+1400  21.67329005  39.14307871  279.69 gpu 0 New Service Truck 33
+1400  21.67322506  39.14316662  253.41 gpu 0 New Service Truck 32
+1400  21.67293305  39.14298583  350.69 gpu 0 New Service Truck 31
+1400  21.67294723  39.14294487  350.34 gpu 0 New Service Truck 30
+1400  21.67469098  39.14263615  246.28 food 0 New Service Truck 29
+1400  21.67465740  39.14267951  250.85 food 0 New Service Truck 28
+1400  21.67461785  39.14268674  250.10 food 0 New Service Truck 27
+1400  21.67458352  39.14268272  250.07 food 0 New Service Truck 26
+1400  21.67455442  39.14271163  247.43 food 0 New Service Truck 25
+1400  21.67343425  39.14316157  249.08 fuel_liners 0 New Service Truck 24
+1400  21.67346004  39.14312688  246.91 fuel_liners 0 New Service Truck 23
+1400  21.67358899  39.14308294  248.96 fuel_jets 0 New Service Truck 22
+1400  21.67361908  39.14307138  251.56 fuel_jets 0 New Service Truck 20
+1400  21.67257151  39.14342241  249.78 pushback 0 New Service Truck 19
+1400  21.67262345  39.14341277  260.04 pushback 0 New Service Truck 18
+1400  21.67298965  39.14324358  249.03 baggage_train 2 New Service Truck 17
+1400  21.67295383  39.14325226  246.32 baggage_train 2 New Service Truck 16
+1400  21.67288128  39.14329142  256.87 baggage_loader 0 New Service Truck 13
+1400  21.67284155  39.14330536  255.96 baggage_loader 0 New Service Truck 12
+1401  21.67279021  39.14333217  251.57 baggage_loader|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 89
+1401  21.67242874  39.14353188  259.51 baggage_loader|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 88
+1401  21.67252276  39.14356657  254.05 baggage_loader|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 87
+1401  21.67257649  39.14355019  242.65 baggage_loader|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 86
+1401  21.67265440  39.14351358  242.30 baggage_loader|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 85
+1401  21.67247978  39.14347696  250.11 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 83
+1401  21.67251291  39.14344227  251.08 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 82
+1401  21.67266425  39.14339794  250.25 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 81
+1401  21.67829224  39.14125140  250.82 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 80
+1401  21.67833522  39.14126991  252.90 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 79
+1401  21.67837820  39.14124909  253.57 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 78
+1401  21.67788604  39.14140867  246.25 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 77
+1401  21.67775709  39.14132426  69.86 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 76
+1401  21.67781297  39.14141792  251.13 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 75
+1401  21.67767112  39.14148846  252.03 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 73
+1401  21.67761095  39.14149771  249.68 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 72
+1401  21.67624084  39.14194638  247.52 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 70
+1401  21.67673838  39.14169892  65.46 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 69
+1401  21.67659976  39.14176137  60.25 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 68
+1401  21.67654280  39.14179143  63.43 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 67
+1401  21.67635368  39.14186891  74.36 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 66
+1401  21.67639881  39.14185156  77.66 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 65
+1401  21.67601518  39.14219037  268.88 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 64
+1401  21.67606998  39.14216956  270.00 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 63
+1401  21.67618282  39.14212446  249.78 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 62
+1401  21.67621290  39.14210480  253.74 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 61
+1401  21.67628275  39.14209093  249.10 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 60
+1401  21.67633218  39.14207821  252.58 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 59
+1401  21.67647081  39.14200998  249.83 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 58
+1401  21.67649660  39.14199611  233.97 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 57
+1401  21.67654710  39.14196257  235.62 baggage_loader|baggage_train|fuel_jets|fuel_liners|fuel_props|food|gpu|pushback New Service Truck Destination 53
 99
